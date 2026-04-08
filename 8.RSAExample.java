@@ -1,3 +1,9 @@
+/*
+	EXP:8
+	P.Bhoomika
+	23K61A05E2
+	25/03/26
+*/
 import java.math.BigInteger;
 import java.util.Scanner;
 public class RSAExample{
