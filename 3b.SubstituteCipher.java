@@ -1,3 +1,9 @@
+/*
+	EXP:3b
+	P.Bhoomika
+	23K61A05E2
+	07/01/26
+*/
 import java.util.*;
 class SubstituteCipher
 {
