@@ -1,3 +1,10 @@
+
+/*
+	EXP:10
+	P.Bhoomika
+	23K61A05E2
+	08/04/26
+*/
 import java.security.MessageDigest;
 public class SHA1Example {
     public static void main(String[] args) {
