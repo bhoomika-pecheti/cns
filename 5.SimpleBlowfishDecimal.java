@@ -1,3 +1,9 @@
+/*
+	EXP:5
+	P.Bhoomika
+	23K61A05E2
+	11/02/26
+*/
 import java.util.*;
 public class SimpleBlowfishDecimal{
 	static final int ROUNDS=16;
