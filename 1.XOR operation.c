@@ -1,3 +1,9 @@
+/*
+	EXP:1
+	P.Bhoomika
+	23K61A05E2
+	24/12/26
+*/
 #include<stdio.h>
 #include<string.h>
 void main() {
